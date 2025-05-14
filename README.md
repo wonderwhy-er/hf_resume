@@ -8,7 +8,9 @@ This interactive resume was created as part of a video demonstration showcasing 
 
 [![Watch the video](https://img.youtube.com/vi/SAp5g7HOvgM/maxresdefault.jpg) watch video](https://www.youtube.com/watch?v=SAp5g7HOvgM)
 
-  
+It was tailored for job role here: https://apply.workable.com/huggingface/j/054AA15140/
+based on Eduards Ruzga data([Contact through LinkedIn](https://linkedin.com/in/eduardruzga))
+
 
 ## 🤗 Machine Learning Optimization Evangelist Resume
 

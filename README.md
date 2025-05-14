@@ -1,5 +1,17 @@
 # Eduard Ruzga - Interactive Resume
 
+## 🎥 Made for Video Demo
+
+This interactive resume was created as part of a video demonstration showcasing the development workflow using:
+
+[![Watch the video](https://img.youtube.com/vi/SAp5g7HOvgM/maxresdefault.jpg)](https://www.youtube.com/watch?v=SAp5g7HOvgM)
+
+
+- **[Desktop Commander](https://desktopcommander.app/)** - AI-powered desktop automation tool
+- Built as part of the **[Job Commander](https://jobcommander.app/)** project ecosystem
+
+  
+
 ## 🤗 Machine Learning Optimization Evangelist Resume
 
 This interactive resume was created specifically for the Machine Learning Optimization Evangelist position at Hugging Face. It showcases my experience in AI optimization, technical content creation, and community building.
@@ -20,12 +32,7 @@ This interactive resume was created specifically for the Machine Learning Optimi
 - Responsive Design
 - CSS Animations
 
-## 🎥 Made for Video Demo
 
-This interactive resume was created as part of a video demonstration showcasing the development workflow using:
-
-- **[Desktop Commander](https://desktopcommander.app/)** - AI-powered desktop automation tool
-- Built as part of the **[Job Commander](https://jobcommander.app/)** project ecosystem
 
 ## 🚀 Live Demo
 

@@ -29,7 +29,9 @@ This interactive resume was created as part of a video demonstration showcasing 
 
 ## 🚀 Live Demo
 
-View the live resume: [GitHub Pages Link](https://wonderwhy-er.github.io/hf_resume/)
+View the live resume: [https://wonderwhy-er.github.io/hf_resume/](https://wonderwhy-er.github.io/hf_resume/)
+
+> **Note**: GitHub Pages may take a few minutes to deploy after the initial push.
 
 ## 📁 Project Structure
 
